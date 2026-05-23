@@ -1,4 +1,4 @@
-# JBX Consórcios — CRM Braga
+# JBX Consórcios — CRM
 
 Sistema de gestão de carteira com geração de propostas profissionais.
 
